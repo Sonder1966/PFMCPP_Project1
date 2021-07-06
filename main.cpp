@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Wrist 
+//  action 1: the wrist rotates
+wrist.rotates();
+//  action 2: the wrist swivels
+wrist.swivels();
+//  action 3: the wrist extends
+wrist.extends();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: guitarAmp
+//  action 1: the guitar amp makes sound
+guitarAmp.makesSound();
+//  action 2: The guitar plugs into the amp
+guitar.plugsIntoAmp();
+//  action 3: the guitar amp uses electricity
+guitarAmp.usesElectricity();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: doctors
+//  action 1: doctors cure people
+doctors.curePeople();
+//  action 2: doctors use medicine
+doctors.useMedicine();
+//  action 3: doctors wear white coats
+doctors.wearWhiteCoats();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: fish
+//  action 1: fish swim in water
+fish.swimWater();
+//  action 2: fish eat food
+fish.eatFood();
+//  action 3: fish breath underwater
+ fish.breathUnderWater();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: computers
+//  action 1:computers process numbers
+computers.processNumbers();
+//  action 2:computers store data
+computers.storeData();
+//  action 3: computers use binary code 
+computers.useBinaryCode();
 
-//  action 2:
+//  6) 
+//  Noun: eye
+//  action 1: the eye opens
+eye.opens();
+//  action 2: the eye closes
+eye.closes();
+//  action 3: the eye blinks
+eye.blinks();
 
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: fingers
+//  action 1: fingers bend at the joints
+fingers.bendAtJoints();
+//  action 2: fingers grip things
+fingers.gripThings();
+//  action 3: fingers play the piano 
+fingers.playPiano();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: the cat chases the mouse
+cat.chasesMouse();
+//  action 2: the cat runs fast
+cat.runsFast();
+//  action 3: the cat jumps
+cat.jumps();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: televison
+//  action 1: the televison displays the image
+televison.displaysImage();
+//  action 2: the television makes sound 
+televison.makesSound();
+//  action 3: the televison distorts sound
+televison.distortsSound();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: clock
+//  action 1: the clock displays the time
+clock.displaysTime();
+//  action 2: the clock uses numbers
+clock.usesNumbers();
+//  action 3: the clock hangs on the wall
+clock.hangsOnWall();
 
 
 #endif

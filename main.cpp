@@ -66,8 +66,8 @@ wrist.extends();
 guitarAmp.makesSound();
 //  action 2: The guitar plugs into the amp
 guitar.plugsIntoAmp();
-//  action 3: guitar amps use electricity
-guitarAmp.useElectricity();
+//  action 3: the guitar amp uses electricity
+guitarAmp.usesElectricity();
  
 //  3)
 //  Noun: doctors

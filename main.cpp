@@ -61,13 +61,13 @@ wrist.swivels();
 wrist.extends();
  
 //  2)
-//  Noun: teeth
-//  action 1: teeth chew food
-teeth.chewFood();
-//  action 2: teeth get cavaties
-teeth.getCavaties();
-//  action 3: teeth are cleaned with a brush
-teeth.cleanedBrush();
+//  Noun: guitarAmp
+//  action 1: the guitar amp makes sound
+guitarAmp.makesSound();
+//  action 2: The guitar plugs into the amp
+guitar.plugsIntoAmp();
+//  action 3: guitar amps use electricity
+guitarAmp.useElectricity();
  
 //  3)
 //  Noun: doctors
